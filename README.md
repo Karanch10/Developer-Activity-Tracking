@@ -2,6 +2,8 @@
 
 Developer Activity Tracking with ETL Pipelines is an end-to-end data engineering solution built using GitHub APIs, Databricks, PySpark, and Delta Lake to track developer activities, repositories, commits, pull requests, and contributions. It implements a Bronze-Silver-Gold Medallion architecture with automated Databricks Jobs and Pipelines, and delivers interactive dashboards for developer productivity and repository analysis.
 
+Live Dashboard Link: https://dbc-18c16423-6c5f.cloud.databricks.com/dashboardsv3/01f15a8da7bd1a28923c3e97cfd04f34/published?o=7474657443105701&f_a106646f%7Edevelopers.s=alexph-dev
+
 <img width="1888" height="998" alt="Screenshot 2026-06-05 000256" src="https://github.com/user-attachments/assets/8f5e31a6-2e31-4cb7-ae11-eb8883f6052e" />
 <img width="1879" height="963" alt="Screenshot 2026-06-05 000324" src="https://github.com/user-attachments/assets/06150540-0ef3-4395-b4c0-d815b60a64f7" />
 
